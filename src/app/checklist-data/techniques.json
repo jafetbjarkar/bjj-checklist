@@ -21,7 +21,7 @@
     "noGi": true,
     "position": "openGuard",
     "placement": "top",
-    "video": ["LGWa2fQWWYc", 34]
+    "video": ["watch?v=LGwa2fQwWYc", 34]
   },
   "guillotinefromClosedguardwhite": {
     "belt": "white",
@@ -29,7 +29,7 @@
     "noGi": true,
     "position": "closedGuard",
     "placement": "bottom",
-    "video": ["DLrXGWLtOoU", 93]
+    "video": ["watch?v=DLrXGWLtOoU", 93]
   },
   "kimurafromClosedguardwhite": {
     "belt": "white",
@@ -677,6 +677,46 @@
     "placement": "bottom",
     "video": ["fGa-NJ8sF9k", 358]
   },
+  "TheGigglerSweep": {
+    "belt": "purple",
+    "caption": "The Giggler Sweep",
+    "noGi": false,
+    "position": "halfGuard",
+    "placement": "bottom",
+    "video": ["W1zwjUY5yCA", 114]
+  },
+  "TheWaiterSweepFromDeepHalfGuard": {
+    "belt": "purple",
+    "caption": "The Waiter Sweep From Deep Half-Guard",
+    "noGi": false,
+    "position": "halfGuard",
+    "placement": "bottom",
+    "video": ["LzphtRQwv6g", 99]
+  },
+  "KneeShieldKneeslideGuardpassgi": {
+    "belt": "purple",
+    "caption": "Knee shield / knee slide guardpass",
+    "noGi": false,
+    "position": "halfGuard",
+    "placement": "top",
+    "video": ["1TA45bmXytc", 261]
+  },
+  "KneeShieldKneeslideGuardpassnogi": {
+    "belt": "purple",
+    "caption": "Knee shield / knee slide guardpass",
+    "noGi": true,
+    "position": "halfGuard",
+    "placement": "top",
+    "video": ["watch?v=atIixTkbQGE", 267]
+  },
+  "theRunningMan": {
+    "belt": "purple",
+    "caption": "The running man",
+    "noGi": true,
+    "position": "turtle",
+    "placement": "bottom",
+    "video": ["YNW93vq4FB0", 189]
+  },
   "turtletohalfnelsontoarmbar": {
     "belt": "purple",
     "caption": "Turtle to half nelson to armbar",
@@ -773,6 +813,22 @@
     "placement": "top",
     "video": ["omoplata+from+side+control", 278]
   },
+  "kneeridetoDarce": {
+    "belt": "purple",
+    "caption": "Knee ride to Darce choke",
+    "noGi": true,
+    "position": "sideControl",
+    "placement": "top",
+    "video": ["pnJnvTnyF1o", 279]
+  },
+  "kneeridetoArmbarfarside": {
+    "belt": "purple",
+    "caption": "Knee ride to armbar far side",
+    "noGi": true,
+    "position": "sideControl",
+    "placement": "top",
+    "video": ["pnJnvTnyF1o", 143]
+  },
   "kneeridetoArmbarcloseside": {
     "belt": "purple",
     "caption": "Knee ride to armbar close side",
@@ -820,6 +876,22 @@
     "position": "mount",
     "placement": "top",
     "video": ["JNNuVJfWdkY", 160]
+  },
+  "BackcontrolEscapetheDoublescoot": {
+    "belt": "purple",
+    "caption": "Back control escape the double scoot",
+    "noGi": false,
+    "position": "backControl",
+    "placement": "bottom",
+    "video": ["e9MJAdU7knI", 266]
+  },
+  "BackcontrolEscapetheMonkeygrip": {
+    "belt": "purple",
+    "caption": "Back control escape the Monkey grip",
+    "noGi": false,
+    "position": "backControl",
+    "placement": "bottom",
+    "video": ["watch?v=AeKhSuKywRA", 165]
   },
   "backcontroletoKimuratoArmbar": {
     "belt": "purple",
