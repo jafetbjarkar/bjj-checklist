@@ -23,13 +23,21 @@
     "placement": "top",
     "video": ["watch?v=LGwa2fQwWYc", 34]
   },
+  "armBar": {
+    "belt": "white",
+    "caption": "Arm bar",
+    "noGi": true,
+    "position": "closedGuard",
+    "placement": "bottom",
+    "video": ["5I6SNtejqe4", 72]
+  },
   "guillotinefromClosedguardwhite": {
     "belt": "white",
     "caption": "Guillotine",
     "noGi": true,
     "position": "closedGuard",
     "placement": "bottom",
-    "video": ["watch?v=DLrXGWLtOoU", 93]
+    "video": ["X7u7bwIExfU", 224]
   },
   "kimurafromClosedguardwhite": {
     "belt": "white",
@@ -79,14 +87,6 @@
     "placement": "top",
     "video": ["Gcarl3Igv_A", 134]
   },
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
@@ -328,14 +328,6 @@
     "position": "closedGuard",
     "placement": "bottom",
     "video": ["SZmnh7yZlOw", 40]
-  },
-  "armBar": {
-    "belt": "blue",
-    "caption": "Arm bar",
-    "noGi": true,
-    "position": "closedGuard",
-    "placement": "bottom",
-    "video": ["5I6SNtejqe4", 72]
   },
   "triangleChoke2": {
     "belt": "blue",
@@ -587,6 +579,14 @@
   
   
 
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
